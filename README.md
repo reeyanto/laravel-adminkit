@@ -1,6 +1,6 @@
 ## Laravel AdminKit 
   
-Laravel AdminKit merupakan sebuah halaman dashboard `kosongan` yang dibuat menggunakan Laravel v10 dan template bootstrap v5 bernama AdminKit.  Dibuat agar dapat memudahkan `developer` untuk membangun halaman dashboard (administrator) tanpa perlu memulainya dari awal.  
+Laravel AdminKit merupakan sebuah halaman dashboard `kosongan` yang dibuat menggunakan Laravel v12 dan template bootstrap v5 bernama AdminKit.  Dibuat agar dapat memudahkan `developer` untuk membangun halaman dashboard (administrator) tanpa perlu memulainya dari awal.  
   
 ### Persiapan  
 Pastikan komputer kamu sudah terpasang:  
